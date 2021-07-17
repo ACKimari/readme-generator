@@ -1,4 +1,4 @@
-# readme generator
+# Readme Generator
   ![GitHub](https://img.shields.io/github/license/ACKimari/readme-generator?style=for-the-badge)
 
   ## Description 
@@ -27,7 +27,7 @@
   N/A
 
   ## Tests
-  just do it
+  Just do it
   
   ## Questions
   - Github profile: https://github.com/ACKimari
