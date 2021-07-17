@@ -37,7 +37,14 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Table of Contents 
-  ${data.contents}
+  - Included: ${data.contents}
+
+  -[Installation](#installation)
+  -[Usage](#usage)
+  -[License](#license)
+  -[Contributions](#contributions)
+  -[Tests](#tests)
+  -[Questions](#questions)
 
   ## Installation 
   ${data.installation}
@@ -52,7 +59,12 @@ function generateMarkdown(data) {
   ${data.contributions}
 
   ## Tests
-  ${data.tests}`;
+  ${data.tests}
+  
+  ## Questions
+  - Github profile: https://github.com/${data.github}
+  
+  - Email: ${data.email}`;
 }
 
 module.exports = generateMarkdown;

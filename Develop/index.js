@@ -62,7 +62,13 @@ const questions = [
     {
         type: 'input',
         name: 'tests',
-        message: 'How do I run a test?'
+        message: 'How do I run a test?',
+    },
+    {
+        type: 'checkbox',
+        name: 'questions',
+        message: 'How would you like to be contacted?',
+        choices: ['Github profile', 'email'],
     },
 ];
 
