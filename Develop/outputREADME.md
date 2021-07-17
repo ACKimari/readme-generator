@@ -1,23 +1,23 @@
 # ReadMe Generator
   ![GitHub](https://img.shields.io/github/license/ACKimari/readme-generator?style=for-the-badge)
 
-  ##Description 
-  generates a readme
+  ## Description 
+  it's awesome but crazy
 
-  ##Table of Contents 
+  ## Table of Contents 
   Installation,Usage,License,Contributing,Tests
 
-  ##Installation 
+  ## Installation 
   1 2 3 4
 
-  ##usage
-  generate read me
+  ## usage
+  just use it
   
-  ##License 
+  ## License 
   MIT
 
-  ##Contributions
+  ## Contributions
   N/A
 
-  ##Tests
-  I DONT KNOW
+  ## Tests
+  idk
